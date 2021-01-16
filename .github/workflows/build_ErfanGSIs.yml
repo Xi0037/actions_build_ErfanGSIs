@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://firmware.meizu.com/Firmware/Flyme/16th/8.20.6.30/cn_beta/20200715101453/e551238c/update.zip
-  ROM_NAME: Flyme
+  ROM_URL: http://download.h2os.com/OnePlus6/MP/OnePlus6Hydrogen_22.K.48_OTA_048_all_2010222226_1b45b82013ae43a6.zip
+  ROM_NAME: OxygenOS
   TZ: Asia/Shanghai
 
 jobs:
